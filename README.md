@@ -55,7 +55,8 @@ RegisterNumber:  212224240094
 
 ## Output:
 
-<img width="639" height="552" alt="image" src="https://github.com/user-attachments/assets/b76a749e-f9bc-4eec-b7ad-e311b9f45a7f" />
+<img width="774" height="692" alt="image" src="https://github.com/user-attachments/assets/f7aa1dc1-d644-44e6-ae6b-a515cf0f6e1b" />
+
 
 ## Result:
 
